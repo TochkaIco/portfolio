@@ -12,7 +12,7 @@
     "role": "Software Developer & Maintainer",
     "period": "December 2025 - Present",
     "type": "School organization",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
+    "description": "I am primarily developing and maintaining web applications for Togethernet. Most of the work can be found at https://git.ssis.nu/togethernet/togethernet-events.",
     "skills": ["Laravel", "MariaDB", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"]
   }
 ]

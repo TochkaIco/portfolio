@@ -13,7 +13,7 @@
     "images": ["togethernet-events-home.png", "togethernet-events-ci.png", "togethernet-events-argo.png"],
     "tech": ["Laravel", "MariaDB", "SQLite", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"],
     "platforms": ["web"],
-    "link": "https://togethernet.ssis.nu",
+    "link": "https://git.ssis.nu/togethernet/togethernet-events",
     "category": "Published Website"
   }
 ]
