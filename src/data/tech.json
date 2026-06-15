@@ -33,8 +33,9 @@
         { "name": "Bash", "level": 2, "icon": "skill-icons:bash-dark" },
         { "name": "Git", "level": 2, "icon": "skill-icons:git" },
         { "name": "Gitlab CI", "level": 2, "icon": "skill-icons:gitlab-dark" },
+        { "name": "ArgoCD", "level": 1, "icon": "argo.svg" },
         { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
-        { "name": "Openshift / Kubernetes", "level": 1, "icon": "skill-icons:kubernetes" },
+        { "name": "Kubernetes", "level": 2, "icon": "skill-icons:kubernetes" },
         { "name": "Cloudflare", "level": 1, "icon": "skill-icons:cloudflare-dark" }
       ]
     }
