@@ -4,6 +4,7 @@
       "title": "Frontend",
       "skills": [
         { "name": "Livewire", "level": 2, "icon": "livewire.svg" },
+        { "name": "Alpinejs", "level": 1, "icon": "skill-icons:alpinejs-dark" },
         { "name": "Astro", "level": 1, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
@@ -15,7 +16,8 @@
       "skills": [
         { "name": "Laravel", "level": 2, "icon": "skill-icons:laravel-dark" },
         { "name": "PHP", "level": 1, "icon": "skill-icons:php-dark" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" }
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "C", "level": 1, "icon": "skill-icons:c" }
       ]
     },
     {
@@ -28,10 +30,12 @@
     {
       "title": "Development / Deployment",
       "skills": [
+        { "name": "Bash", "level": 2, "icon": "skill-icons:bash-dark" },
         { "name": "Git", "level": 2, "icon": "skill-icons:git" },
-        { "name": "Gitlab", "level": 2, "icon": "skill-icons:gitlab-dark" },
+        { "name": "Gitlab CI", "level": 2, "icon": "skill-icons:gitlab-dark" },
         { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
-        { "name": "Openshift / Kubernetes", "level": 1, "icon": "skill-icons:kubernetes" }
+        { "name": "Openshift / Kubernetes", "level": 1, "icon": "skill-icons:kubernetes" },
+        { "name": "Cloudflare", "level": 1, "icon": "skill-icons:cloudflare-dark" }
       ]
     }
   ]

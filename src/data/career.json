@@ -12,7 +12,7 @@
     "role": "Software Developer & Maintainer",
     "period": "December 2025 - Present",
     "type": "School organization",
-    "description": "I am primarily developing and maintaining web applications for Togethernet. Most of the work can be found at https://git.ssis.nu/togethernet/togethernet-events.",
+    "description": "I am primarily developing and maintaining web applications for Togethernet. Most of the work is done in a Laravel & Livewire & MariaDB stack.",
     "skills": ["Laravel", "MariaDB", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"]
   }
 ]

@@ -3,7 +3,7 @@
     "title": "Self-hosted Kubernetes cluster of 3 nodes",
     "description": "I've recently built a 10-inch, 5U tall mini-rack with a k3s cluster of 3 nodes. We'll see what I'll be hosting on it, I primarily did it to play around with kubernetes outside of the plain developer side",
     "images": ["k3s-cluster-1.jpg", "k3s-cluster-2.jpg"],
-    "tech": ["k3s / kubernetes", "Docker", "3d-printing"],
+    "tech": ["k3s / Kubernetes", "Docker", "3D-Printing"],
     "platforms": ["local"],
     "category": "Personal DIY Project"
   },
@@ -20,7 +20,7 @@
     "title": "3d-printer modding",
     "description": "The first printer I personally owned was an Elegoo Neptune 4 Pro. I've done many modifications to it and helped others in the community.",
     "images": ["neptune4pro.jpg"],
-    "tech": ["3d-printing", "CAD-modeling", "electronics"],
+    "tech": ["3D-Printing", "CAD-Modeling", "Electronics"],
     "platforms": ["local"],
     "category": "Modding of my first 3d-printer"
   }
