@@ -4,7 +4,7 @@
     "role": "Deputy Head (Vice ordförande)",
     "period": "January 2026 - Present",
     "type": "School organization",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
+    "description": "Togethernet is a 13-year-old non-profit organization founded and run by committed students at Stockholm Science & Innovation School to create fun events for all students. At the beginning of each school year we hold a “Killergame” called QRTag where a quarter of the school’s students participate. Togethernet also organizes a LAN once a semester where 100 students spend the night at the school with games, tournaments and other fun activities.",
     "skills": ["Leading", "Collaboration"]
   },
   {
@@ -13,6 +13,6 @@
     "period": "December 2025 - Present",
     "type": "School organization",
     "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["Laravel", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker"]
+    "skills": ["Laravel", "MariaDB", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"]
   }
 ]

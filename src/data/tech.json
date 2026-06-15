@@ -1,35 +1,37 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
-      "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
-      ]
-    },
-    {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "Livewire", "level": 2, "icon": "livewire.svg" },
+        { "name": "Astro", "level": 1, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
         { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" }
       ]
     },
     {
       "title": "Backend",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "Laravel", "level": 2, "icon": "skill-icons:laravel-dark" },
+        { "name": "PHP", "level": 1, "icon": "skill-icons:php-dark" },
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" }
       ]
     },
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "MariaDB", "level": 3, "icon": "skill-icons:mysql-dark" },
+        { "name": "SQLite", "level": 2, "icon": "skill-icons:sqlite" }
+      ]
+    },
+    {
+      "title": "Development / Deployment",
+      "skills": [
+        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Gitlab", "level": 2, "icon": "skill-icons:gitlab-dark" },
+        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "Openshift / Kubernetes", "level": 1, "icon": "skill-icons:kubernetes" }
       ]
     }
   ]

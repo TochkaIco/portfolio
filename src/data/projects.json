@@ -1,20 +1,19 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "title": "Self-hosted Kubernetes cluster of 3 nodes",
+    "description": "I've recently built a 10-inch, 5U tall mini-rack with a k3s cluster of 3 nodes. We'll see what I'll be hosting on it, I primarily did it to play around with kubernetes outside of the plain developer side",
+    "images": ["k3s-cluster-1.jpg", "k3s-cluster-2.jpg"],
+    "tech": ["k3s / kubernetes", "Docker", "3d-printing"],
+    "platforms": ["local"],
+    "category": "Personal DIY Project"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Togethernet Events",
+    "description": "The main web application for Togethernet. Commits are tested in gitlab-ci pipelines, deployments are managed by ArgoCD, then they go to our school's Openshift. The app uses Sentry and Laravel Pulse for system monitoring.",
+    "images": ["togethernet-events-home.png", "togethernet-events-ci.png", "togethernet-events-argo.png"],
+    "tech": ["Laravel", "MariaDB", "SQLite", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"],
+    "platforms": ["web"],
+    "link": "https://togethernet.ssis.nu",
+    "category": "Published Website"
   }
 ]
