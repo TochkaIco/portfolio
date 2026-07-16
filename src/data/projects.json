@@ -11,7 +11,7 @@
     "title": "Togethernet Events",
     "description": "The main web application for Togethernet. Commits are tested in gitlab-ci pipelines, deployments are managed by ArgoCD, then they go to our school's Openshift. The app uses Sentry and Laravel Pulse for system monitoring.",
     "images": ["togethernet-events-home.png", "togethernet-events-ci.png", "togethernet-events-argo.png"],
-    "tech": ["Laravel", "MariaDB", "SQLite", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind", "Python"],
+    "tech": ["Laravel", "Livewire", "MariaDB", "SQLite", "Openshift / k8s", "ArgoCD / Gitops", "CI / CD", "Docker", "Tailwind"],
     "platforms": ["web"],
     "link": "https://git.ssis.nu/togethernet/togethernet-events",
     "category": "Published Website"
@@ -22,6 +22,6 @@
     "images": ["neptune4pro.jpg"],
     "tech": ["3D-Printing", "CAD-Modeling", "Electronics"],
     "platforms": ["local"],
-    "category": "Modding of my first 3d-printer"
+    "category": "Personal DIY Project"
   }
 ]
