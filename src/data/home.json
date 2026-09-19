@@ -1,8 +1,8 @@
 {
-  "name": "Fedor Romanov",
+  "name": "Sasha Romanova",
   "photoUrl": "fr.jpg",
   "intro": "A high school student at Stockholm Science & Innovation School. Currently specializing in the Laravel ecosystem, writing clean, testable code and managing deployments with ArgoCD and Openshift (k8s).",
-  "webpageTitle": "Fedor Romanov",
+  "webpageTitle": "Sasha Romanova",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
@@ -21,13 +21,13 @@
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/fedor-romanov",
+      "url": "https://linkedin.com/in/sasha-romanova",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
     {
       "name": "Email",
-      "url": "mailto:fedor.romanov@outlook.com",
+      "url": "mailto:tochkasvg@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
